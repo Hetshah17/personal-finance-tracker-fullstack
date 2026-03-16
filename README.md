@@ -91,7 +91,3 @@ src/
 - Backend handles auth, CRUD for income/expense, dashboard aggregation, file upload (profile image), and Excel export (XLSX).
 
 ---
-
-## License
-
-ISC
